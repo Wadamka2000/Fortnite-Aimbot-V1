@@ -52,7 +52,7 @@ if __name__ == "__main__":
     os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
 
     print(colored('''
-    Wolfbot
+    lunar
 
     - Wadamka#3387
     (Neural Network Aimbot)''', "yellow"))
